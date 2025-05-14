@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 
-TOKEN = "r94itb8n6baiqcldjrv6ljrgva"
+TOKEN = "-"
 PROJECT_ID = "67404"
 MODEL = "object-detection-model-2"
 HEADERS = {
